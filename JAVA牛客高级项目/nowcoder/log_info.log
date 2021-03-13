@@ -1,0 +1,7 @@
+2021-03-13 23:05:34,302 INFO [main] c.n.LoggerTest [StartupInfoLogger.java:55] Starting LoggerTest using Java 1.8.0_40 on LAPTOP-JFRQCTI9 with PID 8248 (started by 小会 in E:\JAVA\idea_code_project\nowcoder)
+2021-03-13 23:05:34,305 INFO [main] c.n.LoggerTest [SpringApplication.java:660] No active profile set, falling back to default profiles: default
+2021-03-13 23:05:36,025 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-13 23:05:36,147 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-03-13 23:05:36,514 INFO [main] c.n.LoggerTest [StartupInfoLogger.java:61] Started LoggerTest in 2.59 seconds (JVM running for 3.629)
+2021-03-13 23:05:36,720 INFO [main] c.n.LoggerTest [LoggerTest.java:27] info log
+2021-03-13 23:05:36,730 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
